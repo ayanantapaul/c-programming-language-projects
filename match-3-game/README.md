@@ -1,3 +1,4 @@
 ## Match 3 Game 
+A Match 3 Game made using Raylib 
 Requirements:
-- Raylib
+- Raylib (version 6.0)

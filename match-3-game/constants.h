@@ -7,7 +7,7 @@
 #define TILE_SIZE 40
 #define TILE_TYPES 5
 #define SCREEN_WIDTH 800
-#define SCREEN_HEIGHT 450
+#define SCREEN_HEIGHT 600
 #define TARGET_FPS 60
 
 #endif   
